@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\BYT_Teknoloji_Kayıt_Uygulaması\BYT_Teknoloji_Kayıt_Uygulaması\bin\Debug\BYT_Teknoloji_Kayıt_Uygulaması.exe.config
+C:\Users\HP\source\repos\BYT_Teknoloji_Kayıt_Uygulaması\BYT_Teknoloji_Kayıt_Uygulaması\bin\Debug\BYT_Teknoloji_Kayıt_Uygulaması.exe
+C:\Users\HP\source\repos\BYT_Teknoloji_Kayıt_Uygulaması\BYT_Teknoloji_Kayıt_Uygulaması\bin\Debug\BYT_Teknoloji_Kayıt_Uygulaması.pdb
+C:\Users\HP\source\repos\BYT_Teknoloji_Kayıt_Uygulaması\BYT_Teknoloji_Kayıt_Uygulaması\obj\Debug\BYT_Teknoloji_Kayıt_Uygulaması.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\BYT_Teknoloji_Kayıt_Uygulaması\BYT_Teknoloji_Kayıt_Uygulaması\obj\Debug\BYT_Teknoloji_Kayıt_Uygulaması.Form1.resources
+C:\Users\HP\source\repos\BYT_Teknoloji_Kayıt_Uygulaması\BYT_Teknoloji_Kayıt_Uygulaması\obj\Debug\BYT_Teknoloji_Kayıt_Uygulaması.Properties.Resources.resources
+C:\Users\HP\source\repos\BYT_Teknoloji_Kayıt_Uygulaması\BYT_Teknoloji_Kayıt_Uygulaması\obj\Debug\BYT_Teknoloji_Kayıt_Uygulaması.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\BYT_Teknoloji_Kayıt_Uygulaması\BYT_Teknoloji_Kayıt_Uygulaması\obj\Debug\BYT_Teknoloji_Kayıt_Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BYT_Teknoloji_Kayıt_Uygulaması\BYT_Teknoloji_Kayıt_Uygulaması\obj\Debug\BYT_Teknoloji_Kayıt_Uygulaması.exe
+C:\Users\HP\source\repos\BYT_Teknoloji_Kayıt_Uygulaması\BYT_Teknoloji_Kayıt_Uygulaması\obj\Debug\BYT_Teknoloji_Kayıt_Uygulaması.pdb
+C:\Users\HP\source\repos\BYT_Teknoloji_Kayıt_Uygulaması\BYT_Teknoloji_Kayıt_Uygulaması\obj\Debug\BYT_Teknoloji_Kayıt_Uygulaması.Form2.resources
